@@ -5,3 +5,5 @@ Editing...
 
 New commit <3
 Another commit
+
+Testing squash
