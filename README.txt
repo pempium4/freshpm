@@ -9,3 +9,5 @@ Another commit
 Testing squash again...
 
 Testing rebase
+
+New feature branch.
